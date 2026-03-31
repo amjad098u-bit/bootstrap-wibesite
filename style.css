@@ -1,0 +1,142 @@
+/* body {
+    font-family: Arial, sans-serif;
+    padding-top: 80px;
+}
+
+.custom-nav{
+    background-color: #766262;
+    border-bottom: 1px solid black;
+}
+
+.logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+    letter-spacing: 2px;
+}
+
+.menu-link {
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 15px;
+}
+ 
+.menu-link:hover {
+    border-bottom: 2px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+} 
+
+.hero {
+    height: 90vh;
+    position: relative;
+    background: url('images/new\ dressess\ image.jpg') center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    border-bottom: 1px solid black;
+    font-size: 30px;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+        ellipse at center,
+        rgba(255,255,255,0) 40%,
+        rgba(255,255,255,0.8) 100%
+    );
+    z-index: 1;
+}
+
+.hero > div {
+    position: relative;
+    z-index: 2;
+}
+
+.hero h2 {
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+.item {
+    border-radius: 10px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.item:hover {
+    transform: scale(1.05);
+}
+
+.item h5 {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.more {
+    color: blue;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.footer {
+    background: black;
+    color: white;
+    padding: 5px;
+}
+
+@media (max-width: 768px) {
+    .hero h2 {
+        font-size: 24px;
+    }
+}
+
+.bg-image-section {
+    height: 100vh;
+    background: url("images/new\ dresses.jpg") center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-weight: bold;
+    font-size: 80px;
+    color: black;
+    border-bottom:1px solid #000;
+    border-top: 1px solid #000;
+}
+
+.bg-image-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+        ellipse at center,
+        rgba(255,255,255,0) 40%,
+        rgba(255,255,255,0.8) 100%
+    );
+    z-index: 1;
+}
+
+.content-box {
+    position: relative;
+    z-index: 2;
+    border: 2px solid black;
+    padding: 40px;
+    background: rgba(255,255,255,0.6);
+    max-width: 600px;
+}
+
+.signup-section {
+    padding: 60px 0;
+    background: #ffffff;
+    text-align: center;
+} */
